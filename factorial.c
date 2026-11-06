@@ -1,8 +1,8 @@
-/*
+/* Program to calculate factorial of a number
  * factorial.c — вычисление факториала натурального числа (итеративный способ).
  * Учебная программа для отработки работы с Git.
  */
-
+git add factorial.c
 #include <stdio.h>
 
 int main(void)
